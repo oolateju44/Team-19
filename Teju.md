@@ -1,2 +1,3 @@
-<MAVEN>
-git chechout
+MAVEN 
+git checkout
+
