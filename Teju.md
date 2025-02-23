@@ -1,3 +1,0 @@
-MAVEN 
-git checkout
-
